@@ -1,0 +1,3 @@
+[submodule "mlib-front"]
+	path = mlib-front
+	url = https://github.com/Omkar76/mlib-front
